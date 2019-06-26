@@ -1,0 +1,26 @@
+.form-container{
+    width:100%;margin-top: 150px;
+
+}
+.input{
+    width: 100%;
+    padding: 15px;
+    border: none;
+    background: #fefefe;
+    margin-top: 5px;
+    font-weight: 600;
+    border: 0.5px solid #ccc;
+    color: #363636;
+    font-size: 14px;
+}
+.input:focus{
+    border: 2px solid #a4c5fc;
+
+}
+
+.formulario{
+min-height: 300px; padding: 10px;
+}
+.ubuntu-font{
+    font-family: "Ubuntu",sans-serif;
+}
